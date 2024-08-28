@@ -10,7 +10,8 @@ last 2 columns represent Width and Height of the box.
 ![Real life example 1](https://github.com/user-attachments/assets/4a73a112-905a-4a40-b926-44136fe46253)
 
 # Cropping Detected Plates
-![plate 2 letters](https://github.com/user-attachments/assets/086ee1e0-9f5b-44c2-9da7-be83bedb7246) ![first plate](https://github.com/user-attachments/assets/e5f01a09-c68c-42f5-a128-c0fc7144016e)
+![first plate](https://github.com/user-attachments/assets/e5f01a09-c68c-42f5-a128-c0fc7144016e) ![second plate](https://github.com/user-attachments/assets/77340870-2743-4ebf-957b-f7ec1acca929)
+
 
 # Recognize Letters/ numbers
 ![Plate one letters](https://github.com/user-attachments/assets/2a9f7fc8-cb9c-496f-a763-bfb83f8f823f) ![plate 2 letters](https://github.com/user-attachments/assets/e843bb99-52fa-4478-be15-b8ceb2148b92)
