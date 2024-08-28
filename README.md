@@ -5,6 +5,7 @@ prediction using YOLOV8 machine learning. For future implementations we will nee
 Each image produces a list of detected classes in a specific order and prints the boxes detected in the image, while also sorting them. The coordinates are referenced from the upper left corner.
 Each row represents one detected class, with the x and y coordinates given in columns. For instance, the first row and first column represent the X coordinate of the box's center. While the
 last 2 columns represent Width and Height of the box.
+[Keep in mind this only works on Arabic Plates. I'm using a dataset has only Egyptian license plates.]
 
 # Detecting Plates
 ![Real life example 1](https://github.com/user-attachments/assets/4a73a112-905a-4a40-b926-44136fe46253)
