@@ -9,8 +9,7 @@ last 2 columns represent Width and Height of the box.
 # Important Notes
 This is a group project done by GIU Students: 
 - Omar Farid (Me) - Mariam Wael
-- Mohamed Mamdouh - Noor Samy
-- Abdelrahman Fouad - Jana Samy
+- Mohamed Mamdouh - Abdelrahman Fouad
 
 [Keep in mind this only works on Arabic Plates. I'm using a dataset has only Egyptian license plates.]
 
